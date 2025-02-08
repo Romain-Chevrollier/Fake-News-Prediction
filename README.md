@@ -20,5 +20,3 @@ TfidfVectorizer : used to go from words to number for the model to understand
 ## Credits
 
 This project has been made by following this video : "https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=8&ab_channel=Siddhardhan" from Siddhardhan channel.  
-
-# Fake-News-Prediction
