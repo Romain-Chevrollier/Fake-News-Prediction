@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is using the dataset from : "https://www.kaggle.com/competitions/fake-news/overview". The goal being to be able to predict if a certain article is fake or not.  
+This project uses the dataset from : "https://www.kaggle.com/competitions/fake-news/overview". The goal is to predict if a certain article is fake or not.  
 It uses python with pandas, re, nltk and sklearn on google collab.  
 
 ## What i learned
@@ -19,4 +19,4 @@ TfidfVectorizer : used to go from words to number for the model to understand
 
 ## Credits
 
-This project has been made by following this video : "https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=8&ab_channel=Siddhardhan" from Siddhardhan channel.  
+This project was made by following this video : "https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=8&ab_channel=Siddhardhan" from Siddhardhan channel.  
